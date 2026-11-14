@@ -1,0 +1,49 @@
+280 jobs
+[Parallel(n_jobs=2)]: Using backend LokyBackend with 2 concurrent workers.
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+[Parallel(n_jobs=2)]: Done  14 tasks      | elapsed:  1.1min
+[Parallel(n_jobs=2)]: Done  68 tasks      | elapsed:  5.2min
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+/usr/local/lib/python3.13/site-packages/sklearn/svm/_base.py:337: ConvergenceWarning: Solver terminated early (max_iter=2000000).  Consider pre-processing your data with StandardScaler or MinMaxScaler.
+  warnings.warn(
+[Parallel(n_jobs=2)]: Done 158 tasks      | elapsed: 10.7min
+[Parallel(n_jobs=2)]: Done 280 out of 280 | elapsed: 18.8min finished
+written 255 results

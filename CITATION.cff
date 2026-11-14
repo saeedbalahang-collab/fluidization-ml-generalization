@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Code and data for: Assessing Machine Learning Generalization under Shifted Hydraulic Conditions for Leakage-Induced Soil Fluidization around Buried Pipelines"
+authors:
+  - family-names: Ghorbany
+    given-names: Sara
+  - family-names: Balahang
+    given-names: Saeed
+  - family-names: Ghodsian
+    given-names: Masoud
+message: "If you use this repository, please cite the associated article."
+version: 1.0.0
+license: MIT

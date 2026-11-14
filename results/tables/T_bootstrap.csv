@@ -1,0 +1,5 @@
+inputs,unit,B,cover_pm1sd,cover_90pct,mean_sd,mean_abs_err
+X,bed,300,0.185,0.296,0.119,0.283
+X,row,300,0.111,0.185,0.067,0.291
+sep,bed,300,0.333,0.333,0.153,0.231
+sep,row,300,0.185,0.296,0.065,0.184

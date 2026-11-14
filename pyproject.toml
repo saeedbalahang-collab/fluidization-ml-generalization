@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "fluidml"
+version = "1.0.0"
+description = "Reproducible analysis of ML generalization for leakage-induced soil fluidization"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "scikit-learn", "scipy", "matplotlib", "xgboost", "optuna", "shap", "joblib"]
+[tool.setuptools]
+packages = ["fluidml"]

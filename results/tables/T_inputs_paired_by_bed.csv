@@ -1,0 +1,11 @@
+protocol,model,n_beds,beds_sep_better,mean_RMSE_X,mean_RMSE_sep
+lobo_dev,affine,9,0,0.457,
+lobo_dev,pl,9,8,0.304,0.192
+lobo_dev,rf,9,5,0.371,0.358
+lobo_dev,svr,9,8,0.307,0.187
+lobo_dev,xgb,9,6,0.334,0.277
+lobo_transfer55,affine,9,0,0.462,
+lobo_transfer55,pl,9,8,0.281,0.107
+lobo_transfer55,rf,9,4,0.31,0.297
+lobo_transfer55,svr,9,5,0.252,0.176
+lobo_transfer55,xgb,9,5,0.283,0.312

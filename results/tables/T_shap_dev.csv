@@ -1,0 +1,6 @@
+inputs,feature,mean_abs_shap
+X,X,0.468
+X,tau,0.052
+sep,P_CD,0.307
+sep,CD_d50,0.4
+sep,tau,0.048

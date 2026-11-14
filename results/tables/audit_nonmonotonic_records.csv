@@ -1,0 +1,8 @@
+kind,D50,CD,P,Af_10_20_30,t,Af_by_P
+time,0.64,400,25.0,"[np.float64(15.09), np.float64(13.38), np.float64(18.09)]",,
+time,0.64,500,55.0,"[np.float64(42.08), np.float64(81.24), np.float64(73.45)]",,
+time,0.64,600,15.0,"[np.float64(32.28), np.float64(4.5), np.float64(5.39)]",,
+time,1.26,400,45.0,"[np.float64(32.57), np.float64(53.54), np.float64(49.26)]",,
+time,2.1,500,45.0,"[np.float64(39.1), np.float64(51.58), np.float64(43.67)]",,
+pressure,0.64,600,,,10.0,"[np.float64(32.28), np.float64(16.51), np.float64(19.42), np.float64(40.94), np.float64(60.08)]"
+pressure,2.1,500,,,20.0,"[np.float64(2.33), np.float64(10.0), np.float64(31.28), np.float64(51.58), np.float64(47.11)]"

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/cache/
+manuscript/_build.md
+manuscript/_reference.docx
+manuscript/*.pdf
+manuscript/v-*.png
+.DS_Store

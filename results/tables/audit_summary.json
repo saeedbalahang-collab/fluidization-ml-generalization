@@ -1,0 +1,37 @@
+{
+  "legacy_max_Y": 8.466567885712946,
+  "legacy_implied_max_area_m2_if_Af_in_m2": 119.93000000000023,
+  "max_Af_raw": 119.93,
+  "Af_unit_used": "cm2",
+  "max_area_m2_corrected": 0.011993,
+  "n_nonmonotonic": 7,
+  "n_beds": 9,
+  "rows_per_bed": 15,
+  "legacy_reproduction": {
+    "eq7_dev_R2_NRMSE_MAPE": [
+      0.08875795414105092,
+      0.21301957456262632,
+      124.82038375863907
+    ],
+    "eq7_55m_R2_NRMSE_MAPE": [
+      -0.369524597044369,
+      0.33374624953879073,
+      55.051896827963574
+    ],
+    "eq7_dev_logRMSE": 0.4510971906859497
+  },
+  "table4_implied_var_over_range2": {
+    "train": {
+      "XGB": 0.051,
+      "RF": 0.052,
+      "SVR": 0.0526,
+      "Benchmark": 0.0544
+    },
+    "test": {
+      "XGB": 0.0549,
+      "RF": 0.0543,
+      "SVR": 0.0547,
+      "Benchmark": 0.0549
+    }
+  }
+}

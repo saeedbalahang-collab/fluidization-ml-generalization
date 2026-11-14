@@ -1,0 +1,73 @@
+scheme,model,inputs,method,params
+forward_chain,xgb,X,none,{}
+forward_chain,xgb,X,shift,"{""shift"": -0.00032736074583667514}"
+forward_chain,xgb,X,linear,"{""a"": -2.8050736451095064, ""b"": 1.8081094479049955}"
+forward_chain,xgb,X,diag,"{""status"": ""ok"", ""k"": 2.6568824706690135, ""Xc_intercept"": 2080.2723695740083, ""Xc_slope"": -241.61121191405}"
+in_sample,xgb,X,none,{}
+lobo_calib,xgb,X,none,{}
+in_sample,xgb,X,shift,"{""shift"": -0.09513170285386822}"
+lobo_calib,xgb,X,shift,{}
+in_sample,xgb,X,linear,"{""a"": -3.955251223206442, ""b"": 2.0348995565516206}"
+lobo_calib,xgb,X,linear,{}
+in_sample,xgb,X,diag,"{""status"": ""ok"", ""k"": 2.251623910027329, ""Xc_intercept"": 3003.911151248001, ""Xc_slope"": -642.3285772411895}"
+lobo_calib,xgb,X,diag,{}
+forward_chain,xgb,sep,none,{}
+forward_chain,xgb,sep,shift,"{""shift"": 0.2260725289528984}"
+forward_chain,xgb,sep,linear,"{""a"": -0.5939686167378695, ""b"": 1.252759716755151}"
+forward_chain,xgb,sep,diag,"{""status"": ""ok"", ""k"": 0.6341928660751673, ""Xc_intercept"": 699.4269749891024, ""Xc_slope"": 141.2716243571406}"
+in_sample,xgb,sep,none,{}
+lobo_calib,xgb,sep,none,{}
+in_sample,xgb,sep,shift,"{""shift"": 0.16064628310748064}"
+lobo_calib,xgb,sep,shift,{}
+in_sample,xgb,sep,linear,"{""a"": -0.7593213769393826, ""b"": 1.2648022897094222}"
+lobo_calib,xgb,sep,linear,{}
+in_sample,xgb,sep,diag,"{""status"": ""ok"", ""k"": 0.7702760351205984, ""Xc_intercept"": 1630.7109884986146, ""Xc_slope"": -420.5118412647529}"
+lobo_calib,xgb,sep,diag,{}
+forward_chain,rf,X,none,{}
+forward_chain,rf,X,shift,"{""shift"": -0.030833064661203804}"
+forward_chain,rf,X,linear,"{""a"": -9.014788558228922, ""b"": 3.565923464581475}"
+forward_chain,rf,X,diag,"{""status"": ""ok"", ""k"": 3.2256932638208244, ""Xc_intercept"": 2057.71994174212, ""Xc_slope"": -144.33769200807816}"
+in_sample,rf,X,none,{}
+lobo_calib,rf,X,none,{}
+in_sample,rf,X,shift,"{""shift"": -0.1091859550694795}"
+lobo_calib,rf,X,shift,{}
+in_sample,rf,X,linear,"{""a"": -3.688158870355381, ""b"": 1.9559221740646815}"
+lobo_calib,rf,X,linear,{}
+in_sample,rf,X,diag,"{""status"": ""ok"", ""k"": 2.2035401696035315, ""Xc_intercept"": 3082.125728292614, ""Xc_slope"": -699.8012007587065}"
+lobo_calib,rf,X,diag,{}
+forward_chain,rf,sep,none,{}
+forward_chain,rf,sep,shift,"{""shift"": 0.2538284208582527}"
+forward_chain,rf,sep,linear,"{""a"": -0.2544739324063028, ""b"": 1.1580249907211764}"
+forward_chain,rf,sep,diag,"{""status"": ""undefined (no valid residual zero crossing)"", ""Xc"": [849.4871574509115, 73.801449848971, -88.85022429198983]}"
+in_sample,rf,sep,none,{}
+lobo_calib,rf,sep,none,{}
+in_sample,rf,sep,shift,"{""shift"": 0.13567399579904663}"
+lobo_calib,rf,sep,shift,{}
+in_sample,rf,sep,linear,"{""a"": -0.38139110824753136, ""b"": 1.1477691807397428}"
+lobo_calib,rf,sep,linear,{}
+in_sample,rf,sep,diag,"{""status"": ""ok"", ""k"": 0.3347968493741607, ""Xc_intercept"": 2354.231306961655, ""Xc_slope"": -1968.9344626119728}"
+lobo_calib,rf,sep,diag,{}
+forward_chain,svr,X,none,{}
+forward_chain,svr,X,shift,"{""shift"": 0.006117667216705789}"
+forward_chain,svr,X,linear,"{""a"": 1.0695800106960576, ""b"": 0.6930229315088408}"
+forward_chain,svr,X,diag,"{""status"": ""ok"", ""k"": 3.979253847436193, ""Xc_intercept"": 1996.7627553704056, ""Xc_slope"": -124.42530346165974}"
+in_sample,svr,X,none,{}
+lobo_calib,svr,X,none,{}
+in_sample,svr,X,shift,"{""shift"": -0.21545989978224314}"
+lobo_calib,svr,X,shift,{}
+in_sample,svr,X,linear,"{""a"": -0.3884038869021996, ""b"": 1.0449173164595813}"
+lobo_calib,svr,X,linear,{}
+in_sample,svr,X,diag,"{""status"": ""undefined (no valid residual zero crossing)"", ""Xc"": [3943.1431162378153, 8724.427324140066, -4776.146883745276]}"
+lobo_calib,svr,X,diag,{}
+forward_chain,svr,sep,none,{}
+forward_chain,svr,sep,shift,"{""shift"": -0.0014542474911463017}"
+forward_chain,svr,sep,linear,"{""a"": -1.7900199295669623, ""b"": 1.5151580755656706}"
+forward_chain,svr,sep,diag,"{""status"": ""ok"", ""k"": 1.4223962585088352, ""Xc_intercept"": 2075.254782642647, ""Xc_slope"": -216.87437679541497}"
+in_sample,svr,sep,none,{}
+lobo_calib,svr,sep,none,{}
+in_sample,svr,sep,shift,"{""shift"": -0.007791694244862788}"
+lobo_calib,svr,sep,shift,{}
+in_sample,svr,sep,linear,"{""a"": -1.1369383920805818, ""b"": 1.309983205110512}"
+lobo_calib,svr,sep,linear,{}
+in_sample,svr,sep,diag,"{""status"": ""ok"", ""k"": 1.0520809752517801, ""Xc_intercept"": 3141.8440381313453, ""Xc_slope"": -1045.2698973652314}"
+lobo_calib,svr,sep,diag,{}
